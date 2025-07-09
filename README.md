@@ -1,6 +1,6 @@
 # Clinic Management System
 
-A desktop application developed in C# using .NET Framework, offering a user-friendly interface for efficient management of a clinic.
+A desktop application developed in C# using .NET core, offering a user-friendly interface for efficient management of a clinic.
 This comprehensive clinic management system allows you to efficiently manage patient records, doctor information, appointments, medical records, prescriptions, and payments.
 It follows a three-tier architecture consisting of the Data Access Layer, Business Layer, and Presentation Layer for maintainability and scalability.
 
